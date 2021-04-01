@@ -17,8 +17,14 @@ main{
 
 h1{
     color: blueviolet;
+    font-size: 2em;
 }
 
 h2{
     color: blueviolet;
+    font-size: 1.5em;
+}
+
+.lado{
+    float: right;
 }
